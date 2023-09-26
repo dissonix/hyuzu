@@ -1,0 +1,17 @@
+<Project Sdk="Godot.NET.Sdk/4.2.0-dev.5">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UETools.Core">
+      <HintPath>Plugins\UETools.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UETools.Pak">
+      <HintPath>Plugins\UETools.Pak.dll</HintPath>
+    </Reference>
+    <Reference Include="UETools.TypeFactory">
+      <HintPath>Plugins\UETools.TypeFactory.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

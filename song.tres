@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="HyuzuSong" load_steps=2 format=3 uid="uid://d2j71umec4rbu"]
+
+[ext_resource type="Script" path="res://hyuzu_song.gd" id="1_6odby"]
+
+[resource]
+script = ExtResource("1_6odby")
+creator = "hatoving"
+title = "All-Star"
+artist = "Smash Mouth"
+key = 0
+mode = 0
+year = 1999
+bpm = 90
+transposes = []

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="HyuzuSong" load_steps=2 format=3 uid="uid://cgt8gd37mj08h"]
+
+[ext_resource type="Script" path="res://hyuzu_song.gd" id="1_k8fml"]
+
+[resource]
+script = ExtResource("1_k8fml")
+creator = ""
+title = ""
+artist = ""
+key = 0
+mode = 0
+year = 1999
+bpm = 90
+transposes = []
